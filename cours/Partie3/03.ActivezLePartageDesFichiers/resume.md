@@ -1,5 +1,3 @@
-Voici le contenu au format Markdown :
-
 ```markdown
 # Utilisation des formulaires pour l'envoi de fichiers en PHP
 
