@@ -1,5 +1,4 @@
-Bien sûr ! Voici un exercice pour renforcer vos compétences dans le traitement des fichiers envoyés via un formulaire en PHP :
-
+# Voir Partie3 : chapitre 3 - activez le partage de fichier 
 ### Exercice : Création d'un formulaire d'envoi de CV
 
 **Objectif :** Mettre en pratique la création d'un formulaire permettant aux utilisateurs de télécharger leur CV sur votre site web, en assurant la validation et le traitement appropriés côté serveur.
